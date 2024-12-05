@@ -1,4 +1,4 @@
-<# Reproductor de música
+# Reproductor de música
 
 <div align="center">
    <img src="img/miniplayer.jpg" width="242" height="535">
